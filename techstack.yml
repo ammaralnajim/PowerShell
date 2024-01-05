@@ -2,7 +2,7 @@ repo_name: ammaralnajim/PowerShell
 report_id: 9d9f122010de2c66c348c39d56548d34
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-20T18:37:16+00:00'
+timestamp: '2024-01-05T08:19:45+00:00'
 requested_by: spaette
 provider: github
 branch: master
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/ammaralnajim/PowerShell
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -27,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ammaralnajim/PowerShell
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -38,6 +40,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/ammaralnajim/PowerShell/blob/master/test/tools/WebListener/WebListener.csproj
   detection_source: test/tools/WebListener/WebListener.csproj
   last_updated_by: Christoph Bergmeister [MVP]
   last_updated_on: 2018-08-30 23:51:52.000000000 Z
@@ -79,6 +82,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Coverage
   image_url: https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png
+  detection_source_url: https://github.com/ammaralnajim/PowerShell/blob/master/codecov.yml
   detection_source: codecov.yml
   last_updated_by: Aditya Patwardhan
   last_updated_on: 2017-02-01 23:45:03.000000000 Z
@@ -91,6 +95,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/ammaralnajim/PowerShell
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -100,6 +105,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ammaralnajim/PowerShell
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -109,6 +115,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/ammaralnajim/PowerShell/blob/master/.github/workflows/backport.yml
   detection_source: ".github/workflows/backport.yml"
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-08-04 18:28:16.000000000 Z
@@ -120,6 +127,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/ammaralnajim/PowerShell/blob/master/test/tools/WebListener/WebListener.csproj
   detection_source: test/tools/WebListener/WebListener.csproj
   last_updated_by: Mark Kraus
   last_updated_on: 2017-08-31 09:30:35.000000000 Z
@@ -132,6 +140,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/ammaralnajim/PowerShell/blob/master/PowerShell.sln
   detection_source: PowerShell.sln
   last_updated_by: Aditya Patwardhan
   last_updated_on: 2020-12-09 20:29:45.000000000 Z
@@ -144,6 +153,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Text Editor
   image_url: https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png
+  detection_source_url: https://github.com/ammaralnajim/PowerShell/blob/master/.vscode/tasks.json
   detection_source: ".vscode/tasks.json"
   last_updated_by: Andrew Schwartzmeyer
   last_updated_on: 2016-03-18 19:22:00.000000000 Z
@@ -155,6 +165,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/ammaralnajim/PowerShell/blob/master/test/common/markdown-lint/yarn.lock
   detection_source: test/common/markdown-lint/yarn.lock
   last_updated_by: xtqqczze
   last_updated_on: 2020-06-02 19:28:32.000000000 Z
@@ -180,6 +191,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/ammaralnajim/PowerShell/blob/master/test/common/markdown-lint/package.json
   detection_source: test/common/markdown-lint/package.json
   last_updated_by: xtqqczze
   last_updated_on: 2020-06-02 19:28:32.000000000 Z
@@ -204,6 +216,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/ammaralnajim/PowerShell/blob/master/LICENSE.txt
   detection_source: LICENSE.txt
   last_updated_by: joeyaiello
   last_updated_on: 2016-07-27 17:21:55.000000000 Z
@@ -215,6 +228,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3681/powershell-logo.png
+  detection_source_url: https://github.com/ammaralnajim/PowerShell
   detection_source: Repo Metadata
 - name: Shell
   description: A shell is a text-based terminal, used for manipulating programs and
@@ -225,6 +239,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/ammaralnajim/PowerShell
   detection_source: Repo Metadata
 - name: Ubuntu
   description: The leading OS for PC, tablet, phone and cloud
@@ -234,6 +249,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/3511/cof_orange_hex.jpg
+  detection_source_url: https://github.com/ammaralnajim/PowerShell/blob/master/tools/releaseBuild/Images/microsoft_powershell_ubuntu16.04/Dockerfile
   detection_source: tools/releaseBuild/Images/microsoft_powershell_ubuntu16.04/Dockerfile
   last_updated_by: Aditya Patwardhan
   last_updated_on: 2018-09-06 21:49:48.000000000 Z
@@ -244,6 +260,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/4253/nZXfdUQq_normal.jpg
+  detection_source_url: https://github.com/ammaralnajim/PowerShell
   detection_source: Repo Metadata
 - name: BenchmarkDotNet
   description: Powerful .NET library for benchmarking
@@ -561,6 +578,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13866/default_1dc9a9444fe68b18bef2b0e836067caced79799a.png
+  detection_source_url: https://github.com/ammaralnajim/PowerShell/blob/master/test/perf/benchmarks/powershell-perf.csproj
   detection_source: test/perf/benchmarks/powershell-perf.csproj
   last_updated_by: Dongbo Wang
   last_updated_on: 2021-09-14 20:51:18.000000000 Z
